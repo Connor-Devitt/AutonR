@@ -1,8 +1,8 @@
 package recording;
 
-Import java.io.*;
-
+import java.io.*;
 import java.util.Scanner;
+
 public class WriterDriver {
   public static void main(String args[]) {
     //I dont know what createActionMethod does
